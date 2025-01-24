@@ -71,6 +71,8 @@ This bug was reported to info@openweathermap.org on 01/24/2025.
 
 ![Bug Screenshot from my app: ](bug2.png)
 
+![Bug Screenshot from my app, not Winter Park, Colorado, but at least next door, Fraser, CO: ](bug3.png)
+
 ## Screenshot
 
 Below is a screenshot of the app interface:
