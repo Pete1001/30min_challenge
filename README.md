@@ -67,7 +67,9 @@ The weather is bringing back the weather for Winter Park, Florida
 
 This bug was reported to info@openweathermap.org on 01/24/2025.
 
-![Bug Screenshot](bug.png)
+![Bug Screenshot from openweathermap.org ](bug.png)
+
+![Bug Screenshot from my app: ](bug2.png)
 
 ## Screenshot
 
